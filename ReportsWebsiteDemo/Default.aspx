@@ -14,7 +14,7 @@
         <asp:ScriptManager ID="ScriptManager1" runat="server">
         </asp:ScriptManager>
         <rsweb:ReportViewer ID="ReportViewer1" runat="server" Font-Names="Verdana" Font-Size="8pt">
-            <LocalReport ReportPath="DemoReportVs2022.rdlc">
+            <LocalReport ReportPath="Reports/test-studio2.rdlc">
             </LocalReport>
         </rsweb:ReportViewer>
     
@@ -22,3 +22,4 @@
     </form>
 </body>
 </html>
+$
